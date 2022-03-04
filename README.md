@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - :dart: I’m currently working on refactoring a motor vehicle insurance web application
-- 🌱 I’m currently learning Docker:dolphin: & Kubernete
+- 🌱 I’m currently learning CI/CD, Docker:dolphin: & Kubernetes
 - 👯 I’m looking to collaborate on some education related projects
 - 📫 How to reach me: GitHub as @tinahmgao (you are here)

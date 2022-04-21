@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :dart: I’m currently working on multilayer containerize
-- 🌱 I’m currently learning PWA
-- 👯 I’m looking to collaborate on some education related projects
+- 🔥 I’m currently working at Doorknock
+- 🤓 I’m currently learning Stripe
 - 📫 How to reach me: 
   - GitHub as @tinahmgao (you are here)
   - Linkedin www.linkedin.com/in/tinahmgao

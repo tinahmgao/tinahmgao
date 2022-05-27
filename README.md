@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔥 I’m currently working at Doorknock
-- 🤓 I’m currently learning Stripe
+- 🤓 I’m currently learning google map api
 - 📫 How to reach me: 
   - GitHub as @tinahmgao (you are here)
   - Linkedin www.linkedin.com/in/tinahmgao

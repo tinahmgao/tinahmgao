@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 💫 About Me:
 - 🔥 I’m currently working at Doorknock
 - 🤓 I’m currently learning google map api
 - 📫 How to reach me: 
   - GitHub as @tinahmgao (you are here)
   - Linkedin www.linkedin.com/in/tinahmgao
-# 💫 About Me:
-⛺️Tina's in<br>🔥 I’m currently working at Doorknock<br>🤓 I’m currently learning google map api<br>📫 How to reach me:<br>GitHub as @tinahmgao (you are here)<br>Linkedin www.linkedin.com/in/tinahmgao
 
 
 # 💻 Tech Stack:

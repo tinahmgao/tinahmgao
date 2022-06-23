@@ -1,4 +1,4 @@
-### ⛺️Tina's in
+### ⛺️I'm currently open for job oppotunities
 
 <!--
 **tinahmgao/tinahmgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔥 I’m currently working at Doorknock
+- 🔥 I’m currently working on Doorknock project
 - 🤓 I’m currently learning google map api
 - 📫 How to reach me: 
   - GitHub as @tinahmgao (you are here)

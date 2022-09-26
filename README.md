@@ -1,7 +1,5 @@
-### ⛺️I'm currently open for job oppotunities
-
 # 💫 About Me:
-- 🔥 I’m currently working on Doorknock project
+
 - 🤓 I’m currently set up the workflow with storybook, figma, zeplin and also content workflow within the team using Sanity.
 - 📫 How to reach me: 
   - GitHub as @tinahmgao (you are here)

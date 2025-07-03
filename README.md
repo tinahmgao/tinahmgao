@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🤓 I’m currently set up the workflow with storybook, figma, zeplin and also content workflow within the team using Sanity.
+- 🤓 I’m currently playing around with D3, having fun~
 - 📫 How to reach me: 
   - GitHub as @tinahmgao (you are here)
   - Linkedin www.linkedin.com/in/tinahmgao
